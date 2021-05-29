@@ -1,8 +1,1 @@
-Removal of tags with git push
-Chech whether the commit author is GitLab user
-Reject unverified user
-maximize file size
-prohibited file names
-Restrict by commit author's email
-Restrict by branch name
-Reject expression in commit message
+~
